@@ -1,6 +1,6 @@
 ## Omer Kocar
 
-C# engineer in Gatineau, QC. Four years of production C# on shipped commercial
+C# engineer in Gatineau, QC. Five years of production C# on shipped commercial
 games: gameplay systems, developer tooling, and performance work. Lately I've
 been building backend web services with ASP.NET Core and EF Core.
 
