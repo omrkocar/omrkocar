@@ -11,15 +11,15 @@ Software Developer at **Chasing Rats Games** since 2022, on the released title
 **Emberfall Games** in 2025 and was its sole programmer on *Veil of Sight*, which
 reached a public demo before the studio wound down in January 2026.
 
-**[Commercial Projects](https://github.com/omersPortfolio/Commercial-Projects-Showcase)**:
+**[Commercial Projects](https://github.com/omrkocar/Commercial-Projects-Showcase)**:
 the shipped titles, which are closed-source: *Baldur's Gate 3*, *Worship*,
 *Veil of Sight*.
 
-**[SazEngine](https://github.com/omersPortfolio/SazEngine)**: C++ game engine
+**[SazEngine](https://github.com/omrkocar/SazEngine)**: C++ game engine
 written from scratch to work through engine architecture, rendering, memory
 management, and a lightweight entity component system.
 
-**[The Stroke of Midnight](https://github.com/omersPortfolio/TheStrokeOfMidnight)**:
+**[The Stroke of Midnight](https://github.com/omrkocar/TheStrokeOfMidnight)**:
 Unreal Engine first-person horror game with AI encounters, interaction and
 progression systems, and a custom save/load framework.
 
