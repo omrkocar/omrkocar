@@ -2,7 +2,7 @@
 
 C# engineer in Gatineau, QC. Five years of production C# on shipped commercial
 games: gameplay systems, developer tooling, and performance work. Lately I've
-been building backend web services with ASP.NET Core and EF Core.
+been building mobile games and backend web services with ASP.NET Core and EF Core.
 
 ### Games
 
