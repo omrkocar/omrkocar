@@ -6,7 +6,7 @@ been building backend web services with ASP.NET Core and EF Core.
 
 ### Games
 
-Software Developer at **Chasing Rats Games** since 2022, on the released title
+Game Programmer at **Chasing Rats Games** since 2022, on the released title
 *Worship*. Before that, C++ on *Baldur's Gate 3* at **Larian Studios**. I founded
 **Emberfall Games** in 2025 and was its sole programmer on *Veil of Sight*, which
 reached a public demo before the studio wound down in January 2026.
