@@ -44,7 +44,7 @@ behind it. Palette checks, previews, sprite-sheet packing and engine export.
 databases and study. Pages, tables and boards, a PDF library with on-device
 OCR, a memorization tracker, and an extension system with signed packages and
 offline licence keys. Electron and TypeScript; your data stays on your machine.
-Windows (Microsoft Store and installer), English and Turkish UI.
+Windows (Microsoft Store and installer) and Mac, English and Turkish UI.
 · [Releases](https://github.com/omrkocar/mecmua-releases)
 
 ### Other projects
