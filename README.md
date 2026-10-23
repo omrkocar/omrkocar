@@ -1,8 +1,9 @@
 ## Omer Kocar
 
-C# engineer in Gatineau, QC. Five years of production C# on shipped commercial
-games: gameplay systems, developer tooling, and performance work. Lately I've
-been building mobile games and backend web services with ASP.NET Core and EF Core.
+Game programmer in Gatineau, QC. Five years of production C# and C++ on shipped
+commercial games: gameplay systems, developer tooling, and performance work.
+Outside the day job I build my own products: family-friendly Islamic games and
+Mecmua, a desktop workspace app.
 
 ### Games
 
@@ -15,38 +16,57 @@ reached a public demo before the studio wound down in January 2026.
 the shipped titles, which are closed-source: *Baldur's Gate 3*, *Worship*,
 *Veil of Sight*.
 
-**[SazEngine](https://github.com/omrkocar/SazEngine)**: C++ game engine
-written from scratch to work through engine architecture, rendering, memory
-management, and a lightweight entity component system.
+### Islamic games
+
+My own studio work in Unity: party and cozy games where the Islamic theme is
+part of the play, not a skin. English, Arabic (full RTL) and Turkish, no ads.
+· [Studio site](https://mirage-games-344.netlify.app)
+
+**[Islamic Charades](https://apps.apple.com/us/app/islamic-charades/id6815922125)**:
+Heads Up-style forehead game for one phone. Describe, ask yes/no questions, or
+act it out across 1,200+ cards in themed decks (Prophets, Companions, Places,
+Quran Stories, Ramadan and more). Deck content comes from a shared word
+database that feeds every word-based game.
+
+**Islamic Tabu**: the Taboo-style word game the Charades core grew out of:
+decks, rounds, timers and in-app purchases.
+
+**Islamic Village** (in development): 2D tile-based cozy village and farming
+sim, the studio's flagship. Farming, crafting, NPCs with schedules, and Ramadan
+and Eid as a full seasonal system.
+
+**[Tessera](https://github.com/omrkocar/Tessera)**: the pixel-art pipeline
+behind it. Palette checks, previews, sprite-sheet packing and engine export.
+
+### Mecmua
+
+**[Mecmua](https://getmecmua.com)**: local-first desktop workspace for notes,
+databases and study. Pages, tables and boards, a PDF library with on-device
+OCR, a memorization tracker, and an extension system with signed packages and
+offline licence keys. Electron and TypeScript; your data stays on your machine.
+Windows (Microsoft Store and installer), English and Turkish UI.
+· [Releases](https://github.com/omrkocar/mecmua-releases)
+
+### Other projects
+
+**[SazEngine](https://github.com/omrkocar/SazEngine)**: C++ game engine written
+from scratch to work through engine architecture, rendering, memory management,
+and a lightweight entity component system.
 
 **[The Stroke of Midnight](https://github.com/omrkocar/TheStrokeOfMidnight)**:
 Unreal Engine first-person horror game with AI encounters, interaction and
 progression systems, and a custom save/load framework.
 
-### Backend and tools
-
-**[WarehouseAPI](https://github.com/omrkocar/WarehouseAPI)**: inventory and
-order management REST API. ASP.NET Core (.NET 10), EF Core, layered behind the
-repository pattern. Optimistic concurrency stops inventory oversell under
-concurrent orders; xUnit unit and integration tests boot the app in-process via
-`WebApplicationFactory`. Runs from one codebase on two clouds, with the EF Core
-provider selected by configuration.
-· [Render](https://warehouseapi-h38c.onrender.com/scalar/v1)
-· [Azure](https://warehouseapi-omer.azurewebsites.net/scalar/v1)
-
-**[WarehouseAPI-Frontend](https://github.com/omrkocar/WarehouseAPI-Frontend)**:
-React 19 and TypeScript client for it. TanStack Query for server state,
-protected routing, typed Axios client with centralized auth and error handling.
-· [Live](https://warehouse-api-frontend.vercel.app)
-
 **[imla](https://github.com/omrkocar/imla)**: push-to-talk dictation for
-Windows. Whisper large-v3 runs on the local GPU through faster-whisper; hotkey,
-clipboard and synthetic keystrokes go through Win32 via `ctypes`. No API key, no
-account, no audio leaving the machine.
+Windows. Whisper large-v3 runs on the local GPU; no API key, no account, no
+audio leaving the machine.
+
+**[WarehouseAPI](https://github.com/omrkocar/WarehouseAPI)**: ASP.NET Core
+inventory and order API with EF Core and xUnit integration tests, plus a
+[React client](https://github.com/omrkocar/WarehouseAPI-Frontend).
 
 ### Tech
 
-C# · .NET / ASP.NET Core · Entity Framework Core · C++ · TypeScript / React ·
-PostgreSQL · SQL Server · Azure · Docker · xUnit · Unity · Unreal
+C# · C++ · Unity · Unreal · TypeScript · Electron · .NET · Python
 
 [LinkedIn](https://www.linkedin.com/in/omrkocar/)
