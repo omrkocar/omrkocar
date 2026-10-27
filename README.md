@@ -22,7 +22,7 @@ My own studio work in Unity: party and cozy games where the Islamic theme is
 part of the play, not a skin. English, Arabic (full RTL) and Turkish, no ads.
 · [Studio site](https://mirage-games-344.netlify.app)
 
-**[Islamic Charades](https://apps.apple.com/us/app/islamic-charades/id6815922125)**:
+**[Islamic Charades](https://apps.apple.com/ca/app/islamic-charades/id6815922125)**:
 Heads Up-style forehead game for one phone. Describe, ask yes/no questions, or
 act it out across 1,200+ cards in themed decks (Prophets, Companions, Places,
 Quran Stories, Ramadan and more). Deck content comes from a shared word
