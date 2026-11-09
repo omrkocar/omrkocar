@@ -22,13 +22,13 @@ My own studio work in Unity: party and cozy games where the Islamic theme is
 part of the play, not a skin. English, Arabic (full RTL) and Turkish, no ads.
 · [Studio site](https://mirage-games-344.netlify.app)
 
-**[Islamic Charades](https://apps.apple.com/ca/app/islamic-charades/id6815922125)**:
+**[Islamic Charades](https://miragegames.netlify.app/charades/)**:
 Heads Up-style forehead game for one phone. Describe, ask yes/no questions, or
 act it out across 1,200+ cards in themed decks (Prophets, Companions, Places,
 Quran Stories, Ramadan and more). Deck content comes from a shared word
 database that feeds every word-based game.
 
-**Islamic Tabu**: the Taboo-style word game the Charades core grew out of:
+**[Islamic Tabu](https://miragegames.netlify.app/tabu/)**: the Taboo-style word game the Charades core grew out of:
 decks, rounds, timers and in-app purchases.
 
 **Islamic Village** (in development): 2D tile-based cozy village and farming
