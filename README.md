@@ -67,6 +67,6 @@ inventory and order API with EF Core and xUnit integration tests, plus a
 
 ### Tech
 
-C# · C++ · Unity · Unreal · TypeScript · Electron · .NET · Python
+C# · C++ · Unity · Unreal · .NET · Python
 
 [LinkedIn](https://www.linkedin.com/in/omrkocar/)
