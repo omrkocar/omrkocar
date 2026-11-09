@@ -20,7 +20,7 @@ the shipped titles, which are closed-source: *Baldur's Gate 3*, *Worship*,
 
 My own studio work in Unity: party and cozy games where the Islamic theme is
 part of the play, not a skin. English, Arabic (full RTL) and Turkish, no ads.
-· [Studio site](https://mirage-games-344.netlify.app)
+· [Studio site](https://miragegames.netlify.app/)
 
 **[Islamic Charades](https://miragegames.netlify.app/charades/)**:
 Heads Up-style forehead game for one phone. Describe, ask yes/no questions, or
