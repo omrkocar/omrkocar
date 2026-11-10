@@ -20,15 +20,15 @@ the shipped titles, which are closed-source: *Baldur's Gate 3*, *Worship*,
 
 My own studio work in Unity: party and cozy games where the Islamic theme is
 part of the play, not a skin. English, Arabic (full RTL) and Turkish, no ads.
-· [Studio site](https://miragegames.netlify.app/)
+· [Studio site](https://www.hakimgames.com/)
 
-**[Islamic Charades](https://miragegames.netlify.app/charades/)**:
+**[Islamic Charades](https://www.hakimgames.com/charades/)**:
 Heads Up-style forehead game for one phone. Describe, ask yes/no questions, or
 act it out across 1,200+ cards in themed decks (Prophets, Companions, Places,
 Quran Stories, Ramadan and more). Deck content comes from a shared word
 database that feeds every word-based game.
 
-**[Islamic Tabu](https://miragegames.netlify.app/tabu/)**: the Taboo-style word game the Charades core grew out of:
+**[Islamic Tabu](https://www.hakimgames.com/tabu/)**: the Taboo-style word game the Charades core grew out of:
 decks, rounds, timers and in-app purchases.
 
 **Islamic Village** (in development): 2D tile-based cozy village and farming
